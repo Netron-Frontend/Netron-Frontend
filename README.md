@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Makarevich! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Frontend+Developer;React+Specialist;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Frontend+Developer;React+Specialist;)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 **I'm Ivan Makarevich.** <br/>
